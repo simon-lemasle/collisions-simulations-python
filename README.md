@@ -8,7 +8,8 @@ https://github.com/user-attachments/assets/6ee82f10-8336-42b4-b446-e72a0ee42d37
 
 ### collison.py (v2)
 Based on real physics (inelastic collisions)
-https://github.com/user-attachments/assets/558f43ee-cf53-4cf2-9fd9-3c108de87eab
+https://github.com/user-attachments/assets/56500e92-5d03-47e7-a0d9-6590cabc70de
+
 
 
 
