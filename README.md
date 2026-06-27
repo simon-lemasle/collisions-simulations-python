@@ -4,7 +4,6 @@ Graphics are based on pygame.
 
 ## Quick demos
 ### collison.py (v2)
-Based on real physics (inelastic collisions)
 https://github.com/user-attachments/assets/d5b63f8e-fda5-4ab6-bae6-aa8b96f52704
 
 ### ball.py (v1)
